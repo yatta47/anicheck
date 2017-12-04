@@ -1,6 +1,6 @@
 # SITE CONFIGURATION
-baseurl: "/anicheck"
-url: "https://yatta47.github.io/anicheck"
+baseurl: ""
+url: "http://anime.lv39.me/"
 
 # THEME-SPECIFIC CONFIGURATION
 theme_settings:
