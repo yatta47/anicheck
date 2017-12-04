@@ -1,6 +1,6 @@
 # SITE CONFIGURATION
-baseurl: "/type-theme"
-url: "https://yatta47.github.io/"
+baseurl: ""
+url: "https://yatta47.github.io/anicheck/"
 
 # THEME-SPECIFIC CONFIGURATION
 theme_settings:
