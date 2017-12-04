@@ -192,7 +192,7 @@ class Main
         #   今日以外のものを取得したければ日付を減算する
         #    ex) today = DateTime.now.new_offset('+09:00').to_date - 2
         def get_today_new_items_from_json(json)
-            today = DateTime.now.new_offset('+09:00').to_date - 5
+            today = DateTime.now.new_offset('+09:00').to_date
             items = []
             
             json.each do |entry|
