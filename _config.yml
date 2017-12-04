@@ -1,5 +1,5 @@
 # SITE CONFIGURATION
-baseurl: ""
+baseurl: "/anicheck"
 url: "https://yatta47.github.io/anicheck"
 
 # THEME-SPECIFIC CONFIGURATION
